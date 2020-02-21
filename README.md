@@ -16,4 +16,8 @@ dentro de .gitignore escribo:
 privado.txt
 privado
 (para que me ignore el commit de estos archivos).
- 
+
+notepad 1.txt
+git tag v0.1
+git add .
+git commit -m "tag v0.1" 
