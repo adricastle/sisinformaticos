@@ -29,7 +29,9 @@ setting, security, Enable two-factor authentication.
 instalo la app TOTP
 mediante el codigo qr me sale el numero y lo pego.
 
-NOMBRE	GITHUB
-Nombre del compañero 1	enlace a github 1
-Nombre del compañero 2	enlace a github 1
-Nombre del compañero 3	enlace a github 3
+|        NOMBRE          |                     GITHUB                        |
+|------------------------|---------------------------------------------------|
+| angel alvarez		 | [https://github.com/angelalvarezrodriguez/sisinformaticos/stargazers |
+| Nombre del compañero 2 | [enlace a github 1](http://github.com/crisrex) |
+| Nombre del compañero 3 | [enlace a github 3](http://github.com/crixrex) |
+
