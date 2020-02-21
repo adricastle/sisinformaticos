@@ -21,3 +21,15 @@ notepad 1.txt
 git tag v0.1
 git add .
 git commit -m "tag v0.1" 
+git push -u origin master
+en la pagina de git hub con mi login selecciono mi perfil y hago click en la foto
+busco la foto en mis archivos y la selecciono.
+
+setting, security, Enable two-factor authentication.
+instalo la app TOTP
+mediante el codigo qr me sale el numero y lo pego.
+
+NOMBRE	GITHUB
+Nombre del compañero 1	enlace a github 1
+Nombre del compañero 2	enlace a github 1
+Nombre del compañero 3	enlace a github 3
